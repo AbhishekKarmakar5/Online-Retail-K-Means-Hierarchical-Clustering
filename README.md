@@ -2,4 +2,4 @@
 
 ## Clustering based on Simple Linkage, Complete Linkage, Average Linkage and K-Means Clustering
 
-https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering/notebook
+Dataset used in the project : https://www.kaggle.com/code/hellbuoy/online-retail-k-means-hierarchical-clustering/data
